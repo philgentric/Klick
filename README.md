@@ -1,2 +1,2 @@
 # Klick
-A full java Swing high performance image viewer
+Old swing version... of a full java high performance image viewer
